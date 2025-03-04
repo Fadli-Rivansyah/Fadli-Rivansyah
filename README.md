@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Fadli-Rivansyah/Fadli-Rivansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Fadli Rivansyah👋
 
-[![Homepage](https://img.shields.io/badge/Homepage-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/Fadli-Rivansyah)
+[![Homepage](https://img.shields.io/badge/Homepage-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fadlicodes.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadli-rivansyah-36860225a/)
 
 
