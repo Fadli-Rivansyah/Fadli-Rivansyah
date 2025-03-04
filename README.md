@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 A web developer from Indonesia. [**My Github Homepage**](https://github.com/Fadli-Rivansyah).
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadli-Rivansyah&show_icons=true&theme=dark)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fadli-Rivansyah&theme=dark)
 
 ## 📌 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadli-Rivansyah&layout=compact&theme=dark)
