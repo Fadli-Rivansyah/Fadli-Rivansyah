@@ -3,7 +3,7 @@
 # Hi there! I'm Fadli Rivansyah👋
 A web developer from Indonesia. 
 
-- 🔭 Currently still a fresh graduate and actively writing articles about technology on Medium.
+- 🔭 Currently still a fresh graduate and actively writing articles about technology on [Medium](https://medium.com/@fadlirvnsyah)
 - 🌱 I’m currently learning React.js and Tailwind CSS.
 - 👯 I want to collaborate with open source projects especially using PHP (Laravel), Javascript, which helps many people.
 - 💬 Ask me about relate PHP (Laravel) and Javascript.
