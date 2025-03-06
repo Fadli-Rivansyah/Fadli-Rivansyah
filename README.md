@@ -11,7 +11,7 @@ A web developer from Indonesia.
 - 😄 Pronouns: he/him
 
 
-# GitHub Stats
+## GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadli-Rivansyah&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadli-Rivansyah&layout=compact&theme=dark)
