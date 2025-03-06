@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 # Hi there! I'm Fadli Rivansyah👋
 
-[![Homepage](https://img.shields.io/badge/Homepage-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://fadlicodes.my.id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadli-rivansyah-36860225a/)
-
+- 🔭 Currently still a fresh graduate and actively writing articles about technology on Medium.
+- 🌱 I’m currently learning React.js and Tailwind CSS.
+- 👯 I want to collaborate with open source projects especially using PHP (Laravel), Javascript, which helps many people.
+- 💬 Ask me about relate PHP (Laravel) and Javascript.
+- 📫 How to reach me: Let's connect! Find me on: [LinkedIn](https://www.linkedin.com/in/fadli-rivansyah-36860225a/) | 📸 [Instagram](https://www.instagram.com/fadli_rvnsyah/)
+- 😄 Pronouns: he/him
 
 A web developer from Indonesia. [**My Github Homepage**](https://github.com/Fadli-Rivansyah).
 
