@@ -9,8 +9,3 @@ A web developer from Indonesia.
 - 📫 How to reach me: Let's connect! Find me on: [LinkedIn](https://www.linkedin.com/in/fadli-rivansyah-36860225a/) | 📸 [Instagram](https://www.instagram.com/fadli_rvnsyah/)
 - 😄 Pronouns: he/him
 
-
-## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fadli-Rivansyah&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fadli-Rivansyah&layout=compact&theme=dark)
